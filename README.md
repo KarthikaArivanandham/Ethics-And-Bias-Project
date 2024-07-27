@@ -10,6 +10,9 @@ These are the necessary packages for my project
 * scikit-learn
 * aif360
 
+**DATASET**
+The dataset used is IBM HR Analytics Employee Attrition & Performance dataset (The dataset file used - WA_Fn-UseC_-HR-Employee-Attrition 2.csv)
+
 **SUMMARY OF THE PROJECT**
 
 * This project aims to detect and mitigate bias in the IBM HR Analytics Employee Attrition & Performance dataset, with a focus on age as the sensitive attribute and attrition as the target variable. The project includes:
